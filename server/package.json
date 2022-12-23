@@ -17,7 +17,7 @@
     "class-validator": "^0.13.2",
     "dotenv": "^16.0.2",
     "graphql": "^15.8.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "reflect-metadata": "^0.1.13",
     "shared": "file:../shared",
     "sqlite3": "^5.0.11",
